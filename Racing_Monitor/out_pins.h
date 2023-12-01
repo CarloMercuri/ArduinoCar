@@ -1,0 +1,3 @@
+#define PINOUT_WHEELS 2
+#define PINOUT_ENGINE 3
+#define PINOUT_DEVICE 5
